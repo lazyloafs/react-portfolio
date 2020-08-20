@@ -11,6 +11,10 @@
   margin: 80px;
 }
 
+.hero {
+  width: 85%;
+}
+
 p {
   font-size: 19px;
 }
