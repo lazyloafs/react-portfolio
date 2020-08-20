@@ -51,5 +51,7 @@
   "bugs": {
     "url": "https://github.com/lazyloafs/react-portfolio/issues"
   },
-  "homepage": "https://github.com/lazyloafs/react-portfolio#readme"
+  "engines": {
+    "node": "12.16.0"
+  }
 }
